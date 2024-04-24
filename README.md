@@ -1,7 +1,6 @@
-# Team3_SC1015_MiniProject
-SC1015 MiniProject SC1015 Data Science 
+# Team 3 MiniProject SC1015 Data Science 
 
-# Video Game Sales Prediction Mini-Project
+# Global Game Sales: Forecasting the Future
 
 ## About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which uses the Video Game with Rating Dataset.
